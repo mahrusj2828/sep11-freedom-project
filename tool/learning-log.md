@@ -13,6 +13,10 @@ Project: Making a song
 * Added songs from Freesound
 * Trying to learn how make a sound crescendo (raising the volume of a sound over time)
 
+01/15/24
+* Learned how to increase the volume of certain sounds
+* Still trying to figure out if there is a way to increase the volume of a sound over time (crescendo)
+* Going to add more sounds and will figure out which sounds will be quieter or louder.
 
 <!--
 * Links you used today (websites, videos, etc)
