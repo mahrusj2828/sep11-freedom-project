@@ -18,6 +18,11 @@ Project: Making a song
 * Still trying to figure out if there is a way to increase the volume of a sound over time (crescendo)
 * Going to add more sounds and will figure out which sounds will be quieter or louder.
 
+01/21/24
+* Placing different downloaded sounds in different points of time to make the song sound better
+* Figuring out if I can make the same sound play at different points multiple times in the same row
+* Going to add some sounds that make its sound like there is something lurking
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
