@@ -1,6 +1,7 @@
 # Tool Learning Log
 
-Tool: Earsketch (for now)
+Tool: Earsketch
+Beyond MVP: Incorperate Zdog with EarSketch
 
 Project: Making a song
 
@@ -22,6 +23,11 @@ Project: Making a song
 * Placing different downloaded sounds in different points of time to make the song sound better
 * Figuring out if I can make the same sound play at different points multiple times in the same row
 * Going to add some sounds that make its sound like there is something lurking
+
+02/11/24
+* Tweaked some of the sounds to fit into the right places
+* Going to add one or two more sounds to my song
+* Going to start using Zdog as my Beyond MVP after I finish my song
 
 <!--
 * Links you used today (websites, videos, etc)
