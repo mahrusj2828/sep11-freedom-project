@@ -29,6 +29,10 @@ Project: Making a song
 * Going to add one or two more sounds to my song
 * Going to start using Zdog as my Beyond MVP after I finish my song
 
+03/10/24
+* Reorganized the sound order one more time
+* Still trying to figure out how to make the hospital room
+* Once finished with the room, I will work on the hallway
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
