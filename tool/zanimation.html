@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Moose</title>
+    <meta name="description" content="description"/>
+    <meta name="author" content="author" />
+    <meta name="keywords" content="keywords" />
+    <link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+    <style type="text/css">.body { width: auto; }</style>
+
+  </head>
+  <body>
+
+    <!-- HTML -->
+    <script src="https://unpkg.com/zdog@1/dist/zdog.dist.min.js"></script>
+    <script src="zdog-demo.js"></script>
+    <canvas class="zdog-canvas" width="240" height="240"></canvas>
+
+    <script>
+      // JS
+
+      let illo = new Zdog.Illustration({
+        element: '.zdog-canvas',
+        dragRotate: true,
+      });
+
+      new Zdog.Rect({
+        addTo: illo,
+        height: 100,
+        width: 200,
+        depth: 200,
+        stroke: 20,
+        color: '#636',
+      });
+
+      illo.updateRenderGraph();
+
+      function animate() {
+        illo.rotate.y += 0.022;
+        illo.updateRenderGraph();
+        requestAnimationFrame( animate );
+      }
+
+      animate();
+
+  </script>
+
+
+  </body>
+</html>

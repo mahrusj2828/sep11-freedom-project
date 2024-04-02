@@ -33,6 +33,12 @@ Project: Making a song
 * Reorganized the sound order one more time
 * Still trying to figure out how to make the hospital room
 * Once finished with the room, I will work on the hallway
+
+03/30/24
+* Made an animated box that rotates to practice using Zdog
+* Will practice using other elements to make other shapes
+* After finished with practice, work on making the floor of the hospital model
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
