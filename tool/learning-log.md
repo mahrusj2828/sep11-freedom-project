@@ -39,6 +39,11 @@ Project: Making a song
 * Will practice using other elements to make other shapes
 * After finished with practice, work on making the floor of the hospital model
 
+04/14/24
+* Made a flat horizontal square, a vertical square connected to the other flat square, and another flat square above the other flat square
+* Will make a broken light in the shape of a diagonal rectangle
+* Will add a hallway from the vertical square
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
