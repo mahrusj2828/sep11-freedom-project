@@ -16,7 +16,7 @@ fitMedia(MOOSEMAN_DEVIOUS___THEME,2, 6, 23.033)
 setEffect(2, VOLUME, GAIN, 10);
 ```
 
-For this blog, I am currently between the Creating and Testing part of the Engineering Design Process (EDP). While working on this blog, I have been working on the skill of "How to Learn". This is an important skill for me to learn because I have to learn the different parts of the tool that I am using and how I am going to be able to manipulate the parts I need to use to get my end product. "Consideration" is another skill that is important for me to learn since I am going to be adding things from outside sources to make my product while using my tool. "Creativity" is another important skill for me to learn. It will help me when using a wider variety of sources when using my tool and how to combine those sources with the tool that I am using.
+For this blog, I am currently between the Creating and Testing part of the Engineering Design Process (EDP). While working on this blog, I have been working on the skill of "How to Learn". This is an important skill for me to learn because I have to learn the different parts of the tool that I am using and how I am going to be able to manipulate the parts I need to use to get my end product. "Consideration" is another skill that is important for me to learn since I am going to be adding things from outside sources to make my product while using my tool. "Creativity" is another important skill for me to learn. It will help me when using a wider variety of sources when using my tool and how to combine those sources with the tool that I am using. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
